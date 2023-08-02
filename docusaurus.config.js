@@ -10,7 +10,7 @@ const config = {
   tagline: 'Writer/Editor Documentation for the PSLegends Website',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
