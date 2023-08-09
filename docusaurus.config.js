@@ -85,11 +85,11 @@ const config = {
                 },
                 {
                   label: 'Discord',
-                  href: '#',
+                  href: 'https://discord.gg/WZvgfmd7Xb',
                 },
                 {
                   label: 'Twitter',
-                  href: '#',
+                  href: 'https://twitter.com/ps_legends',
                 },
               ],
             },
