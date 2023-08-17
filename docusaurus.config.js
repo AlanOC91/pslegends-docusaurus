@@ -102,7 +102,7 @@ const config = {
                 },
                 {
                   label: 'GitHub',
-                  href: 'https://github.com/AlanOC91/docusaurus-2',
+                  href: 'https://github.com/AlanOC91/pslegends-docusaurus',
                 },
               ],
             },
