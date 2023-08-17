@@ -1,19 +1,7 @@
-# Docusaurus 2
+# PSLegends Documentation Website
 
-This directory is a brief example of a [Docusaurus](https://v2.docusaurus.io) site that can be deployed to Vercel with zero configuration.
+This is the documentation website for PSLegends. This website contains all the information you need to know about writing articles for PSLegends.
 
-## Deploy Your Own
+The website is hosted on Vercel and is built using [Docusaurus 2](https://v2.docusaurus.io).
 
-Deploy your own Docusaurus project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/docusaurus-2&template=docusaurus-2)
-
-_Live Example: https://docusaurus-2-template.vercel.app_
-
-### How We Created This Example
-
-To get started with Docusaurus on Vercel, you can use the [Docusaurus CLI](https://v2.docusaurus.io/docs/installation#scaffold-project-website) to initialize the project:
-
-```shell
-npx create-docusaurus@latest my-website classic
-```
+You can access the public website by visiting [https://docs.pslegends.com](https://docs.pslegends.com).
