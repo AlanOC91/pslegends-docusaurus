@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Upcoming Games
 
-we have developed a small tool to quickly parse upcoming PS4 and PS5 games that are being released. We hope this will help you find new games to write about.
+We have developed a small tool to quickly parse upcoming PS4 and PS5 games that are being released. We hope this will help you find new games to write about.
 
 Website: [Upcoming Games](https://upcoming.pslegends.com)
 

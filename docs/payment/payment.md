@@ -26,3 +26,8 @@ PSLegends pays writers via PayPal and only PayPal. You must have a PayPal accoun
 
 PSLegends aims to pay writers on the 1st of every month. 
 
+## Future of PSLegends Pay Rates
+
+PSLegends is a new website and is still growing. We're starting from ground zero which means the site has yet to earn any income. As the website grows over time, we hope to increase the pay rates for writers.
+
+We are planning to introduce the industry average which is pay per word. This will allow us to pay writers more for their work, especially on Reviews and Guides which can take tens of hours to research and write.
