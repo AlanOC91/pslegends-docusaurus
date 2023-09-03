@@ -86,3 +86,35 @@ PSLegends has a few custom blocks that you can use to add content to your articl
     - This block allows you to add a list of pros and cons to your article. This is useful for adding a list of pros and cons to your article just before your review score. This should always be used when writing a review. I recommend a **maximum** of 3 pros and 3 cons.
 
 ![Pros and Cons](/img/joyscons.png)
+
+- Rating Block
+  - This block allows you to add a rating to your article. This is useful for adding a rating to your article just before your review score. This should always be used when writing a review.
+
+![Review Score](/img/reviewscore.png)
+
+Using these blocks lead to an output that looks like this:
+
+![Example Article Output](/img/articleoutput.png)
+
+## Game Profile
+
+**NOTE**: This should be used on any article related to a specific game. This includes reviews, guides, news, etc.
+
+The game profile is a custom block that allows you to add a game profile to your article. This is an **extremely useful** addition as it allows us to link our articles to a "game hub" for that specific game. All you need to do is tick to show it and then search the game in the auto-complete search. If a game is not showing up, simply ping me and I will add it to our system using our auto-importer. 
+
+**NOTE**: You do NOT need to fill in any other game information except the title. The rest of the information is automatically pulled from our database.
+
+![Game Profile](/img/gametitle.png)
+
+Adding a Game Profile adds a beautiful front-end block to your article for that game:
+
+![Game Profile Output](/img/gameprofile_output.png)
+
+## Submitting for Review
+
+Once you have finished writing your article, you can submit it for review. This will send a notification to the PSLegends staff that an article is ready for review. Once an article is submitted for review, it is then reviewed by a member of the PSLegends staff. Once approved, the article will be published to the site.
+
+## Preview Article
+
+You can preview your article at any time by clicking the "Preview" button. This will open a new tab with a preview of your article. This is useful to see how your article will look on the site.
+
