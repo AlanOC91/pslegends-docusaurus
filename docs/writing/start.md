@@ -9,3 +9,5 @@ The PSLegends site is based on the WordPress CMS. As such, writing for PSLegends
 The WordPress content editor will allow you to write your articles in a similar fashion to a word processor, save them for later, and publish them for review when you are ready.
 
 Once an article is submitted for review, it is then reviewed by a member of the PSLegends staff. Once approved, the article will be published to the site.
+
+**START:** You can begin writing your articles [here](https://pslegends.com/wp-admin/post-new.php).
