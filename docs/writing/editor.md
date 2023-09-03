@@ -110,6 +110,19 @@ Adding a Game Profile adds a beautiful front-end block to your article for that 
 
 ![Game Profile Output](/img/gameprofile_output.png)
 
+## Summary
+
+To summarize, if you were writing a review article you should:
+- Set the category and tags.
+- Set the featured image.
+- Set the excerpt.
+- Set the title.
+- Write your article.
+- Add a "Slider" block with images to the end of the article.
+- Add a "Joys and Cons" block with pros and cons after the "Slider" block.
+- Add a "Rating" block with a rating after the "Joys and Cons" block.
+- Add the game to the "Game Profile" section. Don't worry too much about this step if a game is missing, we will make sure it's set before publishing your article.
+
 ## Submitting for Review
 
 Once you have finished writing your article, you can submit it for review. This will send a notification to the PSLegends staff that an article is ready for review. Once an article is submitted for review, it is then reviewed by a member of the PSLegends staff. Once approved, the article will be published to the site.
