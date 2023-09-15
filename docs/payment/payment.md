@@ -12,9 +12,10 @@ The payment amount varies based on the type of article being written. The paymen
 
 | Type                 | Payment (per article) | Min Word Count (Words) |
 |----------------------|-----------------------|------------------------|
-| Review               | $15                   | 1700-2000 +            |
-| Review Classic       | $15                   | 1400-2000 +            |
+| Review               | $15                   | 1200-2200 +            |
+| Review Classic       | $15                   | 1000-2000 +            |
 | News                 | $5                    | N/A                    |
+| Feature              | $10                   | 700 +                  |
 | Guide - Full Game    | $15                   | 2000-3000 +            |
 | Guide - Single Topic | $5                    | N/A                    |
 
