@@ -18,6 +18,8 @@ Trello is a simple Kanban board. It's a great way to organize your articles and 
 
 Simply create a new card in any of the `TODO` columns and add a title to it and assign yourself. You can also add a description to the card if you want to add more details.
 
+**NOTE:** News articles do not need to be added to Trello. You can simply write them and submit them for review.
+
 ## Take on an article
 
 If you see an article that you want to write, simply drag it to the `In Progress` column and assign yourself to it.
