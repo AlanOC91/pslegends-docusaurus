@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-**NOTE: All blocks should be center aligned unless otherwise noted.**
-
 # Images
+
+**NOTE: All blocks should be center aligned unless otherwise noted.**
 
 Images can and should often be used in articles to help break up the text and to make the article more visually appealing. Images can be added to articles in a number of ways.
 

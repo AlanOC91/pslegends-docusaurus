@@ -33,6 +33,13 @@ sidebar_position: 5
 
 HTML Paste. You can use this to copy and paste the HTML for the review structure.
 
+To do this:
+
+1. Add a "Custom HTML" block to your article and paste the HTML below into the block.
+2. Click the three dots in the top right of the block and click "Convert to Blocks".
+
+![Slider Block](/img/convert_blocks.png)
+
 ```html 
 <p>Your opening blurb here.</p>
 <h3>Introduction</h3>
