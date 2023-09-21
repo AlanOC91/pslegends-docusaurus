@@ -6,6 +6,8 @@ sidebar_position: 6
 
 At PSLegends, we employ a comprehensive 1 to 10 review scoring system. Each score represents a distinct level of quality, without the use of decimals. Here's how we define each rating:
 
+**NOTE**: We do allow for the use of a **0.5** modifier in the event that a game is on the cusp of two scores. This is a rare occurrence and should be used sparingly.
+
 **1 - Broken**
 - Absolutely unplayable. We strongly discourage trying this game.
 
