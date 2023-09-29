@@ -26,10 +26,8 @@ The featured image is the image that will be displayed on the article page and a
 
 # Image Optimisation
 
-Images should be optimised before being uploaded to the site. This will help to reduce the size of the image and will help to improve the performance of the site. We lazy load images on the front-end of the site for performance but they should always be kept to a minimal filesize for those on slower connections.
+Images are now automatically optimised when uploaded to the site. The site makes use of [Spatie Image Optimizer](https://github.com/spatie/image-optimizer) to optimise images on upload. This helps reduce the filesize of images and helps to improve the performance of the site.
 
 Optimal filesizes for images would be roughly **100kb - 400kb**. This will vary depending on the image. For example, a 4K screenshot of a game will be a large filesize. However, a screenshot of a game from the PS1 era will be a much smaller filesize.
-
-You can optimize your image filesizes using a site such as [this](https://tinyjpg.com/). This will compress and remove metadata from your images. This will help to reduce the filesize of the image.
 
 We recommend you save images as **.jpg** files. This will help to reduce the filesize of the image. Most computer programs these days can change the format of an image, the most common being from .png to .jpg. If you are unsure how to do this, you can use a free online tool such as [this one](https://convertio.co/png-jpg/).
