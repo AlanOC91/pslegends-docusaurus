@@ -92,6 +92,15 @@ PSLegends has a few custom blocks that you can use to add content to your articl
 
 ![Review Score](/img/reviewscore.png)
 
+The rating block needs the following information:
+
+- Title - Exact game title.
+- Score - The score you want to give the game. This should be a number between 0 and 10 (whole numbers only).
+- Score Title - The title of the score. This is the score heading. All score headings can be found [here](https://pslegends.com/review-score-policy/) (example; Bad, Good, Excellent).
+- Score Description - A short tagline description of your review based on your review score.
+- Score Name - Your exact PSLegend Author name. 
+- Score Position - We used this to showcase what version of the game was reviewed; "PS4 version reviewed" or "PS5 version reviewed". 
+
 Using these blocks lead to an output that looks like this:
 
 ![Example Article Output](/img/articleoutput.png)
