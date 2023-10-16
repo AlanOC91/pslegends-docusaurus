@@ -123,13 +123,23 @@ Adding a Game Profile adds a beautiful front-end block to your article for that 
 
 If you are writing a video game guide/walkthrough, you may want to add sections to your guide. An example of this is that you may have 1 post for Area A walkthrough and a second post for Area B walkthrough. You would then add them into the same guide and add them as sections.
 
-Simply scroll to the bottom of the post and click "Table of Contents" to start adding sections to your guide.
+Simply scroll to the bottom of the game you want to add the guide for, you can find it under [games](https://pslegends.com/games/). and click "Guides" at the very bottom to start adding sections to your guide.
 
-![Table of Contents](/img/guide_section_block.png)
+![Table of Contents](/img/guide_add.png)
 
 Which outputs:
 
-![Table of Contents Output](/img/guide_section.png)
+![Table of Contents Output](/img/guide.png)
+
+### Guide Struture
+
+The guide structure is as follows, where each segment of a guide can be a new post. For example, a Final Fantasy VII walkthrough would have the following structure:
+
+- Introduction
+- Midgar
+- Kalm
+- Chocobo Farm
+- etc etc
 
 ## Summary
 
