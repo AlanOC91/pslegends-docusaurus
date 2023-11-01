@@ -23,6 +23,8 @@ The payment amount varies based on the type of article being written. The paymen
 
 PSLegends pays writers via PayPal and only PayPal. You must have a PayPal account to receive payment.
 
+PSLegends only pays for articles that are **published**. If you write an article and it is not published, you will not be paid for it.
+
 ## Payment Schedule
 
 PSLegends aims to pay writers on the 1st of every month. 
