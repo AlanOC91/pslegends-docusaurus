@@ -33,3 +33,19 @@ You will be expected to read the Pros/Cons and Review Score from the original ar
 ## Outro
 
 We will roll a standarized PSLegends outro for all videos.
+
+## Video Thumbnail
+
+You can re-utilize our fancy new article thumbnails for your video. For example, if you picked Penny’s Big Breakaway then you can use the image associated with that article.
+
+Article: https://pslegends.com/pennys-big-breakaway-review-a-manic-success/
+
+Image: https://pslegends.com/wp-content/uploads/2024/03/pennys-big-breakaway-review-pslegends-1024x576.jpg
+
+## Video Description
+
+The first link should 100% always be the link to the PSLegends article.
+
+After that, we add any source references we have used in the video.
+
+Finally, we have the standarized YouTube description that is auto-set on all videos.
