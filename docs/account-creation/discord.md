@@ -15,6 +15,6 @@ Once you have joined, please contact a member of the PSLegends staff to gain the
 Our Discord server contains some useful resources that you can use to help you write articles for PSLegends.
 
 - `#staff-chat` - This is where you can chat with the rest of the PSLegends staff team.
-- `#trello` - This provides an automated feed of our Trello board. This will allow you to keep track of what articles are being worked on.
+- `#Superthread` - This provides an automated feed of our Superthread board. This will allow you to keep track of what articles are being worked on.
 - `#playstations-news` - This is an automatic feed of news from the official PlayStation Blog. This will allow you to keep track of any new announcements from PlayStation.
 - `#site-feed` - This is an automatic feed of articles (all types) posted on PSLegends. This will allow you to keep track of any new articles that are posted on PSLegends.
